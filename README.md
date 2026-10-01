@@ -23,4 +23,16 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0055-jump-game) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
