@@ -7,6 +7,7 @@
 | [0055-jump-game](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0055-jump-game) |
 | [0496-next-greater-element-i](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0561-array-partition) |
+| [0735-asteroid-collision](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0739-daily-temperatures) |
 ## Greedy
 |  |
@@ -36,6 +37,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
@@ -60,4 +62,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0496-next-greater-element-i) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
