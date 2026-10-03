@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0020-valid-parentheses) |
+| [1544-make-the-string-great](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/1544-make-the-string-great) |
 ## Stack
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [0503-next-greater-element-ii](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0739-daily-temperatures) |
+| [1544-make-the-string-great](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/1544-make-the-string-great) |
 ## Bracket Sequences
 |  |
 | ------- |
