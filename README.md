@@ -8,6 +8,7 @@
 | [0496-next-greater-element-i](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0561-array-partition) |
+| [0682-baseball-game](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0739-daily-temperatures) |
 ## Greedy
@@ -41,6 +42,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -72,5 +74,6 @@
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
