@@ -17,6 +17,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0055-jump-game) |
 | [0561-array-partition](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0561-array-partition) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Sorting
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/1544-make-the-string-great) |
 ## Stack
@@ -48,12 +50,14 @@
 | [0735-asteroid-collision](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/1544-make-the-string-great) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
