@@ -38,6 +38,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/1544-make-the-string-great) |
+| [2716-minimize-string-length](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/2716-minimize-string-length) |
 ## Stack
 |  |
 | ------- |
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0496-next-greater-element-i) |
+| [2716-minimize-string-length](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/2716-minimize-string-length) |
 ## Simulation
 |  |
 | ------- |
