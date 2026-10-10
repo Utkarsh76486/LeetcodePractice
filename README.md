@@ -43,6 +43,7 @@
 | [1544-make-the-string-great](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/1544-make-the-string-great) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/2390-removing-stars-from-a-string) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2716-minimize-string-length](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/2716-minimize-string-length) |
 ## Stack
 |  |
@@ -63,6 +64,7 @@
 | [1544-make-the-string-great](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/1544-make-the-string-great) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/2390-removing-stars-from-a-string) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -99,4 +101,5 @@
 | [0735-asteroid-collision](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0735-asteroid-collision) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/2390-removing-stars-from-a-string) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/2696-minimum-string-length-after-removing-substrings) |
 <!---LeetCode Topics End-->
