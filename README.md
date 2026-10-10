@@ -45,6 +45,7 @@
 | [2390-removing-stars-from-a-string](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2716-minimize-string-length](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/2716-minimize-string-length) |
+| [3174-clear-digits](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/3174-clear-digits) |
 ## Stack
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3174-clear-digits](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/3174-clear-digits) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -102,4 +104,5 @@
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3174-clear-digits](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->
