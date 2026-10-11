@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0055-jump-game) |
+| [0287-find-the-duplicate-number](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0561-array-partition) |
@@ -110,4 +111,24 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/2778-sum-of-squares-of-special-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0287-find-the-duplicate-number) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
