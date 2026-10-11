@@ -12,6 +12,7 @@
 | [0735-asteroid-collision](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0907-sum-of-subarray-minimums) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -105,4 +106,8 @@
 | [2390-removing-stars-from-a-string](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/3174-clear-digits) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
