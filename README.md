@@ -114,6 +114,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0287-find-the-duplicate-number](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
@@ -131,4 +132,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0287-find-the-duplicate-number) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
