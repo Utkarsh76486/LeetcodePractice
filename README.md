@@ -14,6 +14,7 @@
 | [0739-daily-temperatures](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0907-sum-of-subarray-minimums) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Greedy
 |  |
 | ------- |
@@ -21,10 +22,12 @@
 | [0402-remove-k-digits](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0402-remove-k-digits) |
 | [0561-array-partition](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0561-array-partition) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0561-array-partition) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting Sort
 |  |
 | ------- |
