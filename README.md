@@ -26,6 +26,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0561-array-partition) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting Sort
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0020-valid-parentheses) |
+| [0389-find-the-difference](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0402-remove-k-digits) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/1021-remove-outermost-parentheses) |
@@ -99,6 +101,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0496-next-greater-element-i) |
 | [2716-minimize-string-length](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/2716-minimize-string-length) |
 ## Simulation
@@ -127,6 +130,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0389-find-the-difference) |
 ## Pigeonhole Principle
 |  |
 | ------- |
