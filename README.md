@@ -22,6 +22,7 @@
 | [0402-remove-k-digits](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0402-remove-k-digits) |
 | [0561-array-partition](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0561-array-partition) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
@@ -146,4 +147,8 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0160-intersection-of-two-linked-lists) |
+## Math
+|  |
+| ------- |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 <!---LeetCode Topics End-->
