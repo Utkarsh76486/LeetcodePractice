@@ -51,6 +51,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/1544-make-the-string-great) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2390-removing-stars-from-a-string](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2716-minimize-string-length](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/2716-minimize-string-length) |
@@ -106,6 +107,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0389-find-the-difference](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0496-next-greater-element-i) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2716-minimize-string-length](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/2716-minimize-string-length) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Simulation
