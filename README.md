@@ -13,6 +13,7 @@
 | [0735-asteroid-collision](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0907-sum-of-subarray-minimums) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/1441-build-an-array-with-stack-operations) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -75,6 +76,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/1441-build-an-array-with-stack-operations) |
 | [1544-make-the-string-great](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/1544-make-the-string-great) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/2390-removing-stars-from-a-string) |
@@ -118,6 +120,7 @@
 | ------- |
 | [0682-baseball-game](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0735-asteroid-collision) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/1441-build-an-array-with-stack-operations) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/2696-minimum-string-length-after-removing-substrings) |
