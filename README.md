@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0055-jump-game) |
 | [0287-find-the-duplicate-number](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0496-next-greater-element-i) |
@@ -42,6 +43,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0055-jump-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0907-sum-of-subarray-minimums) |
 ## String
@@ -65,6 +67,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0402-remove-k-digits) |
@@ -92,6 +95,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0503-next-greater-element-ii) |
@@ -134,6 +138,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0042-trapping-rain-water) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0344-reverse-string) |
