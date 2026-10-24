@@ -60,6 +60,7 @@
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2390-removing-stars-from-a-string](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/2409-count-days-spent-together) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2716-minimize-string-length](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/2716-minimize-string-length) |
 | [3174-clear-digits](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/3174-clear-digits) |
@@ -169,6 +170,7 @@
 |  |
 | ------- |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [2409-count-days-spent-together](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Binary Indexed Tree
 |  |
