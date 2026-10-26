@@ -45,11 +45,13 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0055-jump-game) |
+| [0072-edit-distance](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0072-edit-distance) |
 | [0907-sum-of-subarray-minimums](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0907-sum-of-subarray-minimums) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0020-valid-parentheses) |
+| [0072-edit-distance](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0072-edit-distance) |
 | [0344-reverse-string](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0402-remove-k-digits) |
