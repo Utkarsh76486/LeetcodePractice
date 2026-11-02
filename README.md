@@ -7,6 +7,7 @@
 | [0042-trapping-rain-water](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0055-jump-game) |
 | [0287-find-the-duplicate-number](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0287-find-the-duplicate-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0561-array-partition) |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0389-find-the-difference) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0561-array-partition) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -171,6 +173,7 @@
 ## Math
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2409-count-days-spent-together](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/3723-maximize-sum-of-squares-of-digits) |
