@@ -15,6 +15,7 @@
 | [0735-asteroid-collision](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0907-sum-of-subarray-minimums) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/1441-build-an-array-with-stack-operations) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -37,6 +38,7 @@
 | [0389-find-the-difference](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0389-find-the-difference) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0561-array-partition) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting Sort
@@ -148,10 +150,12 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0344-reverse-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/0287-find-the-duplicate-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
