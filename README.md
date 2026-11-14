@@ -21,6 +21,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/3364-minimum-positive-sum-subarray) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Greedy
@@ -195,4 +196,9 @@
 |  |
 | ------- |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/3364-minimum-positive-sum-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/Utkarsh76486/LeetcodePractice/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
